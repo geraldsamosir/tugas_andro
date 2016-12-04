@@ -1,0 +1,16 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.gerald.mangaapp.MainApp.fragment.mangaFragment"
+    android:id="@+id/fragment_manga"
+    >
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:text="ini manga fragment"
+        android:height="200dp"
+        android:id="@+id/textView2" />
+
+</FrameLayout>
